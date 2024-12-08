@@ -1,0 +1,3 @@
+MyUsername|1|Eat somethin|true
+MyUsername|2|Do chores|false
+Leka|3|Read a book|false
